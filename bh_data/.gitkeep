@@ -1,0 +1,9 @@
+# This directory stores local blockchain data
+# Do not commit actual data files to Git
+
+# 此目录存储本地区块链数据
+# 不要将实际数据文件提交到 Git
+
+local_chain.txt
+proof_list.txt
+exported_proofs.txt
